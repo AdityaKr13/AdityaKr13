@@ -24,7 +24,8 @@
 
 
 ###
-
+<br>
+<br>
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="12" />
@@ -88,8 +89,9 @@
 </div>
 
 ###
-
-<div data-importer="socials" align="left">
+<br>
+<br>
+<div data-importer="socials" align="center">
   <a href="adityakumar131280@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -101,11 +103,11 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI4YWtpb2RubXRzMnpxMjIwNG5xdG1uYjZtNjRnNXVjMHNjZXI2MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Z7Ub8wpXSRG1J4HNfO/giphy.gif"  />
+  <img data-importer="image" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnowbHVyNDF2YnpuMXF0YjU5YmNnMDV3OG9jczQ4cXNrb2lsMGFubCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SnVZO1N0Wo6u4/giphy.gif"  />
 </div>
 
 ###
-
+<br>
 <br clear="both">
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/AdityaKr13/AdityaKr13/snake-output/snake.svg" alt="Snake animation" />
